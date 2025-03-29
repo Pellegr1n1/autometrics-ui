@@ -1,6 +1,6 @@
 # 🚗 **AutoMetrics - Analytics Automotivo Inteligente**  
 
-**AutoMetrics** é uma aplicação web que ajuda donos de veículos a acompanhar tudo sobre seu carro - desde serviços realizados até custos e especificações técnicas.
+**AutoMetrics** é uma aplicação web que ajuda donos de veículos a acompanhar tudo sobre seu carro, desde serviços realizados até custos e especificações técnicas.
 
 ## 🔍 **Visão Geral**  
 
